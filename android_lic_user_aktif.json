@@ -2,7 +2,7 @@
   "status": "success",
   "message": "Login berhasil",
   "data": {
-    "user_id": 12345,
-    "token": "abc123xyz"
+    "user_id": 1,
+    "token": "1"
   }
 }
